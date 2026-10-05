@@ -1,5 +1,5 @@
 # McKinsey AI Market Research Engine
 
-**Author:** Shivam Tyagi, Mayuri Laddha, Jignesh Kumar
+**Author:** Shivam Tyagi, Mayuri Laddha, Jignesh Kumar,Archana singh
 
 AI-powered market research workspace with a React frontend and FastAPI backend. See [frontend documentation](frontened/README.md) and [backend documentation](backened/README.md) for setup details.
